@@ -38,10 +38,9 @@ class myClass {
     }
 }
 
-/*
-* const calc = myClass(4, [1,2,3,4,5])
-* console.log(calc.trueFalse) -- true
-*
-* const calc2 = myClass(7, [1,2,3,4,5])
-* console.log(calc2.trueFalse) -- false
-*/
+
+// const calc = myClass(4, [1,2,3,4,5])
+// console.log(calc.trueFalse) // true
+
+// const calc2 = myClass(7, [1,2,3,4,5])
+// console.log(calc2.trueFalse) // false
