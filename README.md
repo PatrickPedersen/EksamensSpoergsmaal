@@ -15,7 +15,7 @@ I er velkomne til at tage dem og bruge dem, eller bygge videre på dem.
 | - arrayRemoveOdd | Marcus |
 | - arrayReverse | Patrick |
 | - arrayRowIdentical | Patrick |
-| - arraySort |  |
+| - arraySort | Patrick |
 | - arraySum | Patrick |
 | - arraySymmetry |  |
 | - arrayTrueFalse | Patrick |
