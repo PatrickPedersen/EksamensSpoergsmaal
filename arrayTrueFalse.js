@@ -1,10 +1,12 @@
 /*
-*   1.  Skriv en funktion, som kan svare på om en værdi findes i et array.
-*       F.eks. vil svaret på om 4 findes i [1, 2, 3] være false.
-*
-*       Vis hvordan funktionen kan gøres til en metode i en class.
-*
-*       Beskriv koden med et flowchart og offentliggør den på et git repository.
+    1.  Skriv en funktion, som kan svare på om en værdi findes i et array.
+        F.eks. vil svaret på om 4 findes i [1, 2, 3] være false.
+
+        Vis hvordan funktionen kan gøres til en metode i en class.
+
+        Beskriv koden med et flowchart og offentliggør den på et git repository.
+
+        Lavet af Patrick
 */
 
 // Function

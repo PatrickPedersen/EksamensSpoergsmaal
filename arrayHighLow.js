@@ -1,10 +1,12 @@
 /*
-*   3.  Skriv en funktion, som finde det højeste og det laveste tal i et array.
-*       F.eks. vil svaret på [1, 2, 3, 4, 5] være [1, 5].
-*
-*       Vis hvordan funktionen kan gøres til en metode i en class.
-*
-*       Beskriv koden med et flowchart og offentliggør den på et git repository.
+    3.  Skriv en funktion, som finde det højeste og det laveste tal i et array.
+        F.eks. vil svaret på [1, 2, 3, 4, 5] være [1, 5].
+
+        Vis hvordan funktionen kan gøres til en metode i en class.
+
+        Beskriv koden med et flowchart og offentliggør den på et git repository.
+
+        Lavet af Patrick
 */
 
 // Function

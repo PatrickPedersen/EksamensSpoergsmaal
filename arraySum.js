@@ -1,10 +1,12 @@
 /*
-*   2.  Skriv en funktion, som kan udregne summen af tallene i et array.
-*       F.eks. vil summen af [1, 2, 3] være 6.
-*
-*       Vis hvordan funktionen kan gøres til en metode i en class.
-*
-*       Beskriv koden med et flowchart og offentliggør den på et git repository.
+    2.  Skriv en funktion, som kan udregne summen af tallene i et array.
+        F.eks. vil summen af [1, 2, 3] være 6.
+
+        Vis hvordan funktionen kan gøres til en metode i en class.
+
+        Beskriv koden med et flowchart og offentliggør den på et git repository.
+
+        Lavet af Patrick
 */
 
 // Function
