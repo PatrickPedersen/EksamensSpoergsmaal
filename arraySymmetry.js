@@ -6,3 +6,14 @@
 
     Beskriv koden med et flowchart og offentliggør den på et git repository.
 */
+
+function symmetry(array) {
+    for (let index in array) {
+        if (array[index] != array[array.length - index - 1]) {
+            return false
+        }
+    }
+    return true
+}
+
+console.log(symmetry([1, 2, 2, 1]))
