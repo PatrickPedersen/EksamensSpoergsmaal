@@ -12,7 +12,7 @@
 
 // Et callback kan ses som et if statement. I det her tilfælde, så tjekker vi om en værdi vi passerer igennem til vores callback funktion
 // passerer vores tjek. Her tjekker vi om det vi sender til vores callback er større en tallet 2.
-// Så hvis jeg siger callback(3), så vil dette være sandt, da 3 er højere 2. Hvilket er hvad vi tjekker for.
+// Så hvis jeg siger callback(3), så vil dette være sandt, da 3 er højere en 2. Hvilket er hvad vi tjekker for.
 // Når vi nu ved dette, så burde dette jo være simpelt! Ja og nej... Det tog ihvertfald mig noget tid at forstår dette.
 
 // Her er vores callback function. Med andre ord, en funktion. Det er denne funktion som vi tjekker vores værdier i arrayet op imod.
@@ -22,10 +22,13 @@ const callback = function (x) {return x > 2;}
 // Her er vores filter funktion, som tager et callback (en anden funktion).
 // I dette filter tager vi et array, som vi gerne filtre og vores callback.
 function callbackFilter(array, myCallBack) {
+
     // Vi laver et array der holder vores resultat/svar.
     let result = []
+
     // Looper igennem vores array, som vi gav vores filter.
     for (let index in array) {
+
         // Hvis værdien på array placeringen passerer vores tjek i callback funktionen, så gør vi intet. 
         // For simon fik vist byttet rundt på større og mindre en... :/
         // Vi skal derfor tjekke om vores tal fejler callback funktionen. Hvis værdien derfor ikke er over 2, så indsæt i result array.

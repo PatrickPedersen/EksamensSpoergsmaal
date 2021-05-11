@@ -7,8 +7,6 @@
     Beskriv koden med et flowchart og offentliggør den på et git repository.
 */
 
-const data = [1, 2, 3, 4, 5]
-
 function removeOdd (numbers) {
     for (i = 0; i < numbers.length; i++) {
         if (numbers[i] % 2 != 0) {
@@ -18,6 +16,7 @@ function removeOdd (numbers) {
          // Vi behøver ikke gøre noget, hvis tallet er lige
         }
     }
-    console.log(numbers);
+    return numbers;
 }
-removeOdd(data)
+
+console.log(removeOdd([1, 2, 3, 4, 5]))
