@@ -70,4 +70,4 @@ function arrayFrequency(array) {
     return result
 }
 
-console.log(arrayFrequency([5, 2, 1, 1, 2, 3, 3, 5, 5, 8, 8, 4]))
+//console.log(arrayFrequency([5, 2, 1, 1, 2, 3, 3, 5, 5, 8, 8, 4]))
