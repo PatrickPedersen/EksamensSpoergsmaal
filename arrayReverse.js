@@ -5,4 +5,18 @@
     Vis hvordan funktionen kan gøres til en metode i en class.
 
     Beskriv koden med et flowchart og offentliggør den på et git repository.
+
+    Lavet af Patrick
 */
+
+function reverse(array) {
+    let result = []
+    
+    for (let index of array) {
+        result.push(array[array.length - index])
+    }
+
+    return result
+}
+
+console.log(reverse([1, 2, 3, 4]))
