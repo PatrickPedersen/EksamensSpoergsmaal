@@ -29,7 +29,7 @@ I er velkomne til at tage dem og bruge dem, eller bygge videre på dem.
 | - NumberPower |  |
 | - primeNumbers |  |
 | - secToHMS |  |
-| - squareRoot |  |
+| - squareRoot | Patrick |
 | - stringContainsWord |  |
 | - wordCount |  |
 
