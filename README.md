@@ -17,7 +17,7 @@ I er velkomne til at tage dem og bruge dem, eller bygge videre på dem.
 | - arrayRowIdentical | Patrick |
 | - arraySort | Patrick |
 | - arraySum | Patrick |
-| - arraySymmetry |  |
+| - arraySymmetry | Patrick |
 | - arrayTrueFalse | Patrick |
 | - calcUnknownLenghtOfTriangle |  |
 | - desiredLenghtOfFibonacci |  |
