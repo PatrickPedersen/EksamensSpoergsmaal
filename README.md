@@ -30,6 +30,6 @@ I er velkomne til at tage dem og bruge dem, eller bygge videre på dem.
 | - primeNumbers |  |
 | - secToHMS | Patrick |
 | - squareRoot | Patrick |
-| - stringContainsWord |  |
+| - stringContainsWord | Patrick |
 | - wordCount |  |
 
