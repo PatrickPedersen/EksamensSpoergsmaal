@@ -24,7 +24,7 @@ I er velkomne til at tage dem og bruge dem, eller bygge videre på dem.
 | - diceRoll |  |
 | - findClosestArrayGroupingForInt |  |
 | - genAllPossibleKomp |  |
-| - numberFaculty |  |
+| - numberFaculty | Patrick |
 | - NumberGuess |  |
 | - NumberPower |  |
 | - primeNumbers |  |
