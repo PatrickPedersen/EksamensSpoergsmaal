@@ -28,7 +28,7 @@ I er velkomne til at tage dem og bruge dem, eller bygge videre på dem.
 | - NumberGuess |  |
 | - NumberPower |  |
 | - primeNumbers |  |
-| - secToHMS |  |
+| - secToHMS | Patrick |
 | - squareRoot | Patrick |
 | - stringContainsWord |  |
 | - wordCount |  |
