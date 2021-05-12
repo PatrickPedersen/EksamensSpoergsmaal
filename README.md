@@ -26,7 +26,7 @@ I er velkomne til at tage dem og bruge dem, eller bygge videre på dem.
 | - genAllPossibleKomp |  |
 | - numberFaculty | Patrick |
 | - NumberGuess |  |
-| - NumberPower |  |
+| - NumberPower | Patrick |
 | - primeNumbers |  |
 | - secToHMS | Patrick |
 | - squareRoot | Patrick |
