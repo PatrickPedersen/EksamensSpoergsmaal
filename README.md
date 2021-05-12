@@ -19,7 +19,7 @@ I er velkomne til at tage dem og bruge dem, eller bygge videre på dem.
 | - arraySum | Patrick |
 | - arraySymmetry | Patrick |
 | - arrayTrueFalse | Patrick |
-| - calcUnknownLenghtOfTriangle |  |
+| - calcUnknownLenghtOfTriangle | Patrick |
 | - desiredLenghtOfFibonacci |  |
 | - diceRoll |  |
 | - findClosestArrayGroupingForInt |  |
