@@ -6,3 +6,11 @@
 
     Beskriv koden med et flowchart og offentliggør den på et git repository.
 */
+
+let results = [];
+
+function DiceSimulator(rolls, sides) {
+    for (i = 0; i < rolls; i++) (
+    Math.floor(Math.random() * sides) + 1;
+    )
+}
