@@ -6,3 +6,20 @@
 
     Beskriv koden med et flowchart og offentliggør den på et git repository.
 */
+
+function xFibonaci(amount) {
+    let fiboString = [];
+    let xFibo = 1;
+    let val1 = 1;
+    let val2 = 1;
+    fiboString.push(1);
+    for (i = 0; i < amount-1; i++) {
+        fiboString.push(xFibo);
+        xFibo = val1 + val2
+        val2 = val1;
+        val1 = xFibo;
+    }
+    console.log(fiboString);
+}
+
+xFibonaci(10);
