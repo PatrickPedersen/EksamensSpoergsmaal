@@ -11,6 +11,11 @@ let results = [];
 
 function DiceSimulator(rolls, sides) {
     for (i = 0; i < rolls; i++) (
-    Math.floor(Math.random() * sides) + 1;
-    )
+    results.push(Math.floor(Math.random() * sides) + 1)
+    );
+    console.log(results);
 }
+
+
+//Slet denne linje, når du skal indtil eksamen. (Indsæt antal terninekast v. 10 og antal sider på terningen v. 6)
+DiceSimulator(10, 6);
