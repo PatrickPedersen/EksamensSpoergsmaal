@@ -6,3 +6,13 @@
 
     Beskriv koden med et flowchart og offentliggør den på et git repository.
 */
+
+function isPrime(num) {
+    for(var i = 2; i < num; i++)
+      if(num % i === 0) {
+        return false
+      }
+    return num > 1;
+  }
+  
+  console.log(isPrime(89))
