@@ -20,7 +20,7 @@ I er velkomne til at tage dem og bruge dem, eller bygge videre på dem.
 | - arraySymmetry | Patrick |
 | - arrayTrueFalse | Patrick |
 | - calcUnknownLenghtOfTriangle | Patrick |
-| - desiredLenghtOfFibonacci |  |
+| - desiredLenghtOfFibonacci | Marcus |
 | - diceRoll | Marcus |
 | - findClosestArrayGroupingForInt |  |
 | - genAllPossibleKomp |  |
