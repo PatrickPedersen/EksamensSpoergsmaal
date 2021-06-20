@@ -10,32 +10,25 @@
 let arr1 = [1, 2, 3];
 let arr2 = [4, 5, 6];
 
-
-function closestSet(arr1, arr2, num) {
-    obj = {};
-    for (i of arr1) {
-        for (j of arr2) {
-            if (obj[i + j] == undefined) {
-                obj[i + j] = [];
-            }
-            obj[i + j].push([i, j]);
-        }
+function closestPair(a, b, target) {
+  let sort = [];
+  let result = [];
+  for (i in a) {
+    for (j in b) {
+      let num1 = a[i];
+      let num2 = b[j]
+      sort.push([num1+num2, num1, num2]);
     }
-    if (obj[num]) {
-        return obj[num];
+  }
+  sort.sort();
+  for (k in sort) {
+    if (sort[k][0] == target) {
+      sort[k].shift()
+      result.push(sort[k])
     }
-    keys = Object.keys(obj);
-    key = keys[0];
-    dif = Math.abs(num - Number(key));
-    for (i = 1; i < keys.length; i++) {
-        iDif = Math.abs(num - Number(keys[i]));
-        if (iDif < dif) {
-            dif = iDif;
-            key = keys[i];
-        }
-    }
-    console.log(obj);
-    return obj[key];
+  }
+  return result
 }
 
-console.log(closestSet(arr1, arr2, 8))
+
+console.log(closestPair(arr1, arr2, 8));

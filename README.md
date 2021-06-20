@@ -22,8 +22,8 @@ I er velkomne til at tage dem og bruge dem, eller bygge videre på dem.
 | - calcUnknownLenghtOfTriangle | Patrick |
 | - desiredLenghtOfFibonacci | Marcus |
 | - diceRoll | Marcus |
-| - findClosestArrayGroupingForInt |  |
-| - genAllPossibleKomp |  |
+| - findClosestArrayGroupingForInt | Marcus (Adam) |
+| - genAllPossibleKomp | Marcus |
 | - numberFaculty | Patrick |
 | - NumberGuess | Marcus |
 | - NumberPower | Patrick |
@@ -31,5 +31,5 @@ I er velkomne til at tage dem og bruge dem, eller bygge videre på dem.
 | - secToHMS | Patrick |
 | - squareRoot | Patrick |
 | - stringContainsWord | Patrick |
-| - wordCount |  |
+| - wordCount | Patrick |
 
