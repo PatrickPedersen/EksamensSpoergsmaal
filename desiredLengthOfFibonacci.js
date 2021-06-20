@@ -8,11 +8,10 @@
 */
 
 function xFibonaci(amount) {
-    let fiboString = [];
+    let fiboString = [1, ];
     let xFibo = 1;
     let val1 = 1;
     let val2 = 1;
-    fiboString.push(1);
     for (i = 0; i < amount-1; i++) {
         fiboString.push(xFibo);
         xFibo = val1 + val2
@@ -21,5 +20,6 @@ function xFibonaci(amount) {
     }
     console.log(fiboString);
 }
+
 
 xFibonaci(10);
