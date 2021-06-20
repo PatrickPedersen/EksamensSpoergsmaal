@@ -5,3 +5,7 @@
 
     Beskriv koden med et flowchart og offentliggør den på et git repository.
 */
+
+function NumGuess() {
+    guess = window.prompt("Indtast dit gæt her")
+}
