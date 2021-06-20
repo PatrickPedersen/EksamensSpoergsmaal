@@ -21,13 +21,13 @@ I er velkomne til at tage dem og bruge dem, eller bygge videre på dem.
 | - arrayTrueFalse | Patrick |
 | - calcUnknownLenghtOfTriangle | Patrick |
 | - desiredLenghtOfFibonacci |  |
-| - diceRoll |  |
+| - diceRoll | Marcus |
 | - findClosestArrayGroupingForInt |  |
 | - genAllPossibleKomp |  |
 | - numberFaculty | Patrick |
-| - NumberGuess |  |
+| - NumberGuess | Marcus |
 | - NumberPower | Patrick |
-| - primeNumbers |  |
+| - primeNumbers | Marcus |
 | - secToHMS | Patrick |
 | - squareRoot | Patrick |
 | - stringContainsWord | Patrick |
