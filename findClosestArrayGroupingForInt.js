@@ -11,20 +11,20 @@ let arr1 = [1, 2, 3];
 let arr2 = [4, 5, 6];
 
 function closestPair(a, b, target) {
-  let sort = [];
+  let sorted = [];
   let result = [];
   for (i in a) {
     for (j in b) {
       let num1 = a[i];
       let num2 = b[j]
-      sort.push([num1+num2, num1, num2]);
+      sorted.push([num1+num2, num1, num2]);
     }
   }
-  sort.sort();
-  for (k in sort) {
-    if (sort[k][0] == target) {
-      sort[k].shift()
-      result.push(sort[k])
+  sorted.sort();
+  for (k in sorted) {
+    if (sorted[k][0] == target) {
+      sorted[k].shift()
+      result.push(sorted[k])
     }
   }
   return result
